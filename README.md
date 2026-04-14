@@ -14,7 +14,10 @@ React/TypeScript dashboard for visualising GitHub Actions pipeline health. Conne
 
 ## Screenshots
 
-> Add screenshots here once running locally — recruiters and interviewers will look at this.
+<img width="1897" height="863" alt="image" src="https://github.com/user-attachments/assets/781ace03-7dcb-4fe8-97c3-7d0a7cc53547" />
+<img width="1482" height="297" alt="image" src="https://github.com/user-attachments/assets/55dd0717-3a40-4b66-aa0c-5ca2ac2047b5" />
+<img width="1484" height="863" alt="image" src="https://github.com/user-attachments/assets/10b274b2-16d4-4ede-b697-59aa96d35af8" />
+
 
 ## Getting Started
 
